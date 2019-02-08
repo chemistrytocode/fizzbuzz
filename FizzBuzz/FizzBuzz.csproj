@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="FizzBuzzTests\obj\Debug\netcoreapp2.1\FizzBuzzTests.assets.cache" />
+    <None Remove="FizzBuzzTests\obj\Debug\netcoreapp2.1\FizzBuzzTests.AssemblyInfoInputs.cache" />
+    <None Remove="FizzBuzzTests\obj\FizzBuzzTests.csproj.nuget.g.props" />
+    <None Remove="FizzBuzzTests\obj\FizzBuzzTests.csproj.nuget.g.targets" />
+    <None Remove="FizzBuzzTests\obj\project.assets.json" />
+    <None Remove="FizzBuzzTests\obj\FizzBuzzTests.csproj.nuget.cache" />
+    <None Remove="FizzBuzzTests\obj\Debug\netcoreapp2.1\FizzBuzzTests.csprojAssemblyReference.cache" />
+    <None Remove="FizzBuzzTests\obj\Debug\netcoreapp2.1\FizzBuzzTests.csproj.CoreCompileInputs.cache" />
+    <None Remove="FizzBuzzTests\obj\Debug\netcoreapp2.1\FizzBuzzTests.csproj.FileListAbsolute.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="FizzBuzzTests\obj\Debug\netcoreapp2.1\FizzBuzzTests.AssemblyInfo.cs" />
+    <Compile Remove="FizzBuzzTests\UnitTest1.cs" />
+    <Compile Remove="FizzBuzzTests\obj\Debug\netcoreapp2.1\FizzBuzzTests.Program.cs" />
+  </ItemGroup>
+</Project>
