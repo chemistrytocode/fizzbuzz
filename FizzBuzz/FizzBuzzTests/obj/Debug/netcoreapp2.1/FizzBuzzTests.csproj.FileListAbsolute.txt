@@ -1,0 +1,17 @@
+/Users/paulayling/Projects/fizzbuzz/FizzBuzz/FizzBuzzTests/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/paulayling/Projects/fizzbuzz/FizzBuzz/FizzBuzzTests/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/paulayling/Projects/fizzbuzz/FizzBuzz/FizzBuzzTests/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/paulayling/Projects/fizzbuzz/FizzBuzz/FizzBuzzTests/bin/Debug/netcoreapp2.1/FizzBuzzTests.deps.json
+/Users/paulayling/Projects/fizzbuzz/FizzBuzz/FizzBuzzTests/bin/Debug/netcoreapp2.1/FizzBuzzTests.runtimeconfig.json
+/Users/paulayling/Projects/fizzbuzz/FizzBuzz/FizzBuzzTests/bin/Debug/netcoreapp2.1/FizzBuzzTests.runtimeconfig.dev.json
+/Users/paulayling/Projects/fizzbuzz/FizzBuzz/FizzBuzzTests/bin/Debug/netcoreapp2.1/FizzBuzzTests.dll
+/Users/paulayling/Projects/fizzbuzz/FizzBuzz/FizzBuzzTests/bin/Debug/netcoreapp2.1/FizzBuzzTests.pdb
+/Users/paulayling/Projects/fizzbuzz/FizzBuzz/FizzBuzzTests/bin/Debug/netcoreapp2.1/FizzBuzz.dll
+/Users/paulayling/Projects/fizzbuzz/FizzBuzz/FizzBuzzTests/bin/Debug/netcoreapp2.1/FizzBuzz.pdb
+/Users/paulayling/Projects/fizzbuzz/FizzBuzz/FizzBuzzTests/obj/Debug/netcoreapp2.1/FizzBuzzTests.csprojAssemblyReference.cache
+/Users/paulayling/Projects/fizzbuzz/FizzBuzz/FizzBuzzTests/obj/Debug/netcoreapp2.1/FizzBuzzTests.csproj.CoreCompileInputs.cache
+/Users/paulayling/Projects/fizzbuzz/FizzBuzz/FizzBuzzTests/obj/Debug/netcoreapp2.1/FizzBuzzTests.AssemblyInfoInputs.cache
+/Users/paulayling/Projects/fizzbuzz/FizzBuzz/FizzBuzzTests/obj/Debug/netcoreapp2.1/FizzBuzzTests.AssemblyInfo.cs
+/Users/paulayling/Projects/fizzbuzz/FizzBuzz/FizzBuzzTests/obj/Debug/netcoreapp2.1/FizzBuzzTests.csproj.CopyComplete
+/Users/paulayling/Projects/fizzbuzz/FizzBuzz/FizzBuzzTests/obj/Debug/netcoreapp2.1/FizzBuzzTests.dll
+/Users/paulayling/Projects/fizzbuzz/FizzBuzz/FizzBuzzTests/obj/Debug/netcoreapp2.1/FizzBuzzTests.pdb
